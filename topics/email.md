@@ -6,6 +6,6 @@ In Business Central, the approval flow for purchase invoices is placed before po
 
 The approver is periodically notified via an e-mail that documents requires approval.
 
-![Email notification](../images/email/email-notification.png)
+![E-mail notification](../images/email/email-notification.png)
 
 [:arrow_left:](../README.md) [Back](../README.md)

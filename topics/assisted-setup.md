@@ -8,7 +8,7 @@ When you install the app, you will be asked which approval flow you want to acti
 
 In this manual only the approval flow for the posted invoices is activated.
 
-![Assisted Setup](../images/assisted-setup/assisted-setup.png)
+![Assisted Setup dialog](../images/assisted-setup/assisted-setup-dialog.png)
 
 After selecting, you can press Finish.
 

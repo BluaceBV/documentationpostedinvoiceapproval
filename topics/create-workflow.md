@@ -4,17 +4,17 @@ In Business Central, the approval flow for purchase invoices is placed before po
 
 ## Create workflow
 
-Choose the icon ![Lightbulb that opens the Tell Me feature](../images/install-activate/tell-me-icon.png), Enter Workflow, and the choose the related link.
+Choose the icon ![Lightbulb that opens the Tell Me feature](../images/create-workflow/tell-me-icon.png), Enter Workflow, and the choose the related link.
 
-![Workflow page](../images/create-workflow/workflow-page.png)
+![Workflow search](../images/create-workflow/workflow-search.png)
 
 Create a new workflow from a template.
 
-![New workflow from template](../images/create-workflow/new-workflow-template.png)
+![New Workflow from Template](../images/create-workflow/new-workflow-from-template.png)
 
 Select Approval Flow for Posted Purchase Invoices, On Hold= PA.
 
-![Select template](../images/create-workflow/select-template.png)
+![Select approval flow](../images/create-workflow/select-approval-flow.png)
 
 The workflow is now created, you only have to **enable** it.
 

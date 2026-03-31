@@ -8,9 +8,9 @@ When a purchase invoice is posted in BC, the on hold code will now be filled in 
 
 The invoice is automatically send for approval, so the status of the posted purchase invoice is now Pending Approval.
 
-![Posted Purchase Invoices](../images/posted-purchase-invoices/posted-purchase-invoices.png)
+![Posted Purchase Invoice - Pending Approval](../images/posted-purchase-invoices/posted-invoice-pending.png)
 
-![Posted Purchase Invoice details](../images/posted-purchase-invoices/posted-purchase-invoice-details.png)
+![On Hold code](../images/posted-purchase-invoices/on-hold-code.png)
 
 The on hold code is also filled on the **vendor ledger entry**.
 
