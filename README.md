@@ -23,3 +23,5 @@ The solution is the **Posted Invoice Approval** app. The invoice is posted immed
 ### [E-mail](topics/email.md)
 
 ### [Approve Posted Purchase Invoice](topics/approve-posted-purchase-invoice.md)
+* [Approve](topics/approve-posted-purchase-invoice.md#approve)
+* [Reject](topics/approve-posted-purchase-invoice.md#reject)
