@@ -19,6 +19,6 @@ The approver can now approve the invoice. The On Hold code will be removed and s
  
 ### Reject
 The approver can also Reject the approval request.
-The moment the approver rejects the posted purchase invoice, the status will be set from Pending Approval to Open. The On Hold code will be set to DA (based on the Posted Invoice Approval Setup
+The moment the approver rejects the posted purchase invoice, the status will be set from Pending Approval to Open. The On Hold code will be set to DA (based on the Posted Invoice Approval Setup).
 
 [:arrow_left:](../README.md) [Back](../README.md)
