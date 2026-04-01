@@ -6,7 +6,11 @@ The solution is the **Posted Invoice Approval** app. The invoice is posted immed
 
 ### [Introduction](topics/introduction.md)
 
-### [Install and activate the app](topics/install-activate.md)
+### [Prerequisites](topics/prerequisites.md)
+
+* [Installation](topics/prerequisites.md#installation)
+* [Activation](topics/prerequisites.md#activation)
+* [Assigning Permission Sets](topics/prerequisites.md#assigning-permission-sets)
 
 ### [Assisted Setup](topics/assisted-setup.md)
 
