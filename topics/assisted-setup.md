@@ -8,9 +8,12 @@ The solution is the **Posted Invoice Approval** app. The invoice is posted immed
 
 When you install the app, you will be asked which approval flow you want to activate.
 
-In this manual only the approval flow for the posted invoices is activated.
+In this manual only the approval flow for the posted invoices is activated based on a Purchaser (this will be the initial approver).
 
 ![Assisted Setup dialog](../images/assisted-setup/assisted-setup-dialog.png)
+
+
+You can select the language the approval workflow will use. By default is this the language of your settings.
 
 After selecting, you can press Finish.
 
